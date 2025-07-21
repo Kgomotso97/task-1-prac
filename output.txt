@@ -1,0 +1,48 @@
+1  node -v
+    2  mkdir hello-world
+    3  cd hello-world
+    4  touch index.js
+    5  encho 'console.log("hello world");'> index.js
+    6  echo 'console.log("Hello world");' >index.js
+    7  git init
+    8  git add
+    9  git add .
+   10  git commit -m "Add Hello.js with Hello World"
+   11  git remote add origin https://github.com/Kgomotso97/Hello-World.git
+   12  git push origin master
+   13  git push origin main
+   14  mkdir hello-world
+   15  cd hello-world
+   16  touch index.js
+   17  echo 'console.log("hello world, my name is kgomotso");'>index.js
+   18  cd ~
+   19  git clone https://github.com/Kgomotso97/task-1-prac.git
+   20  cd task-1-prac
+   21  git pull origin main
+   22  Code .
+   23  echo "The shell is my translator to the OS"
+   24  pwd
+   25  ls
+   26  cd documents
+   27  cd ..
+   28  ls
+   29  cd downloads
+   30  cd task-1-prac
+   31  cd ..
+   32  ls
+   33  cd task-1-prac
+   34  mkdir documents
+   35  cd documents
+   36  cd ..
+   37  nano shell_intro.sh
+   38  chmod +x shell_intro.sh
+   39  ./shell_intro.sh
+   40  touch reflectiom.txt
+   41  echo "it translate the command to the operating system" "i learned about the operating system and file management" " its way quicker and efficient"
+   42  echo " it translate the command to the operating system"
+   43  echo " it takes the command from the user to the operating system" >> reflection.txt
+   44  echo " 1. it takes the command from the user to the operating system 2. i learned about the operation system and file management .3 its way quicker and efficient" >> reflection.txt
+   45  echo " 1. it takes the command from the user to the operating system 2. i learned about the operation system and file management .3 its way quicker and efficien" >> reflection.txt
+   46  echo " 1. it takes the command from the user to the operating system 2. i learned about the operation system and file management .3 its way quicker and efficien" >> reflection.txt
+   47  nano reflection.txt
+   48  history

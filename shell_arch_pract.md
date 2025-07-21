@@ -48,10 +48,9 @@ Save and exit (CTRL + O, Enter, then CTRL + X in nano).
 
 #### Make it executable:
 
-```bash
-chmod +x shell_intro.sh
+```ba
 ```
-Run it:
+Run it:c
 
 ```bash
 ./shell_intro.sh
